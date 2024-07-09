@@ -1,1 +1,2 @@
 this is for code1 branch
+on thisday 9th july i learnt basics of git and git hub
